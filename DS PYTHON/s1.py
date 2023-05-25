@@ -1,0 +1,12 @@
+print("List")
+l1=[10,20,"ABC",30,"abc",40,50]
+print(l1)
+print("dictonarys")
+d1={"a":10,"b":20,"c":30}
+print(d1)
+print("Tuples")
+t1=(10,20,30,50,80,90)
+print(t1)
+print("sets")
+s1={20,40,50,60,90,80}
+print(s1)

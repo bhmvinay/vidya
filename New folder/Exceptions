@@ -1,0 +1,27 @@
+Exceptions: runtime errors
+
+error: syntax mistake
+	compile time
+
+
+exception handling
+
+1.try
+2.catch
+3.throw
+4.throws
+5.finally
+
+
+
+try:-statements with exceptions should be inside try block
+	try should immediatly followed by catch block
+
+
+types of exceptions
+
+1. ArithmeticException
+2.IOException
+3.SQLException
+4.FileNotFoundEXception
+-------
